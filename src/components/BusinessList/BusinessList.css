@@ -1,0 +1,7 @@
+.BusinessList {
+  display: flex;
+  margin: 5% 10%;
+  justify-content: space-around;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
