@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/foodplace/static/css/main.5fbfe0e0.chunk.css",
+    "main.js": "/foodplace/static/js/main.de701966.chunk.js",
+    "main.js.map": "/foodplace/static/js/main.de701966.chunk.js.map",
+    "runtime-main.js": "/foodplace/static/js/runtime-main.fa687d8a.js",
+    "runtime-main.js.map": "/foodplace/static/js/runtime-main.fa687d8a.js.map",
+    "static/js/2.698eb665.chunk.js": "/foodplace/static/js/2.698eb665.chunk.js",
+    "static/js/2.698eb665.chunk.js.map": "/foodplace/static/js/2.698eb665.chunk.js.map",
+    "index.html": "/foodplace/index.html",
+    "precache-manifest.4fd1f3a0ce43bcc92e7d0f6d9df75cc1.js": "/foodplace/precache-manifest.4fd1f3a0ce43bcc92e7d0f6d9df75cc1.js",
+    "service-worker.js": "/foodplace/service-worker.js",
+    "static/css/main.5fbfe0e0.chunk.css.map": "/foodplace/static/css/main.5fbfe0e0.chunk.css.map",
+    "static/js/2.698eb665.chunk.js.LICENSE.txt": "/foodplace/static/js/2.698eb665.chunk.js.LICENSE.txt",
+    "static/media/bkg_business.jpg": "/foodplace/static/media/bkg_business.7935f3ef.jpg",
+    "static/media/SearchBar.css": "/foodplace/static/media/bkg_search_mobile.cf9dbfa2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa687d8a.js",
+    "static/js/2.698eb665.chunk.js",
+    "static/css/main.5fbfe0e0.chunk.css",
+    "static/js/main.de701966.chunk.js"
+  ]
+}
